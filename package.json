@@ -63,8 +63,10 @@
     "webpack": "^1.13.1",
     "webshot": "^0.18.0"
   },
+  "peerDependencies": {
+    "angular": "1.x"
+  },
   "dependencies": {
-    "angular": "1.x",
-    "chart.js": "2.3.x"
+    "chart.js": "^2.3.x"
   }
 }
